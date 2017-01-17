@@ -1,1 +1,3 @@
 # first_repo_tryout
+
+Repository made for exercise...
